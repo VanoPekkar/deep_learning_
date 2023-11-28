@@ -19,15 +19,15 @@
 
 В качестве моделей тестировались модели из библиотеки [Ultralytics](https://www.ultralytics.com/). Для тестов использовались 3 модели:
 
-1. YOLO8 nano
-2. YOLO8 small
-3. RTDETR-L
+1. [YOLO8 nano](https://docs.ultralytics.com/models/yolov8/)
+2. [YOLO8 small](https://docs.ultralytics.com/models/yolov8/)
+3. [RTDETR-L](https://docs.ultralytics.com/models/rtdetr/)
 
 Для всех моделей был проведен подбор гиперпараметров. Подробные результаты можно найти в отчетах wandb:
 
-1. [YOLO8 nano](https://api.wandb.ai/links/burobaslo/avuj848m)
-2. [YOLO8 small](https://api.wandb.ai/links/burobaslo/2i9835hj)
-3. [RTDETR-L](https://api.wandb.ai/links/burobaslo/l6qmye4t)
+1. [Отчет YOLO8 nano](https://api.wandb.ai/links/burobaslo/avuj848m)
+2. [Отчет YOLO8 small](https://api.wandb.ai/links/burobaslo/2i9835hj)
+3. [Отчет RTDETR-L](https://api.wandb.ai/links/burobaslo/l6qmye4t)
 
 ## Результаты
 
